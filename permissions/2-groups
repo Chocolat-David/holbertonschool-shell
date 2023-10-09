@@ -1,2 +1,2 @@
 #!/bin/bash
-grep betty -i -n /etc/group
+group
